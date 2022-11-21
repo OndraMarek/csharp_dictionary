@@ -1,0 +1,26 @@
+C:\Users\Ondřej\source\repos\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.exe
+C:\Users\Ondřej\source\repos\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.deps.json
+C:\Users\Ondřej\source\repos\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.runtimeconfig.json
+C:\Users\Ondřej\source\repos\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.runtimeconfig.dev.json
+C:\Users\Ondřej\source\repos\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.dll
+C:\Users\Ondřej\source\repos\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.pdb
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.csprojAssemblyReference.cache
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.AssemblyInfoInputs.cache
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.AssemblyInfo.cs
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.dll
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.pdb
+C:\Users\Ondřej\source\repos\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.genruntimeconfig.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.exe
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.deps.json
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.runtimeconfig.json
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.runtimeconfig.dev.json
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.dll
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\bin\Debug\netcoreapp3.1\slovnik.pdb
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.csprojAssemblyReference.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.AssemblyInfoInputs.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.AssemblyInfo.cs
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.dll
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.pdb
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\slovnik\slovnik\obj\Debug\netcoreapp3.1\slovnik.genruntimeconfig.cache
